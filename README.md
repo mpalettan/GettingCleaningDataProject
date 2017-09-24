@@ -14,7 +14,7 @@ The raw data is taking from this link:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-ORIGINAL WORK: 
+ORIGINAL WORK:
 Human Activity Recognition Using Smartphones Dataset; Version 1.0.
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory.
