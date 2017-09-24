@@ -19,9 +19,7 @@ The goal is to prepare tidy data that can be used for later analysis.
 * activityrecognition@smartlab.ws
 * www.smartlab.ws
 
-* The raw data is taking from this link:
-
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* The raw data is taking from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # The script "run_analysis.R" does the following:
 
