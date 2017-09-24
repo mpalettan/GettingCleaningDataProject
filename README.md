@@ -14,6 +14,8 @@ The raw data is taking from this link:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+ORIGINAL WORK: Human Activity Recognition Using Smartphones Dataset; version 1.0. Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab - Non Linear Complex Systems Laboratory. DITEN - Università degli Studi di Genova. activityrecognition@smartlab.ws www.smartlab.ws
+
 The script "run_analysis.R" does the following:
 1) Merges the training and the test sets to create one data set.
 2) Extracts only the measurements on the mean and standard deviation for each measurement.
