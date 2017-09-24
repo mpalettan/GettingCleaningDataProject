@@ -16,6 +16,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ORIGINAL WORK:
 Human Activity Recognition Using Smartphones Dataset; version 1.0.
+
+
+ORIGINAL WORK:
+Human Activity Recognition Using Smartphones Dataset; version 1.0.
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory.
 DITEN - Università degli Studi di Genova.
