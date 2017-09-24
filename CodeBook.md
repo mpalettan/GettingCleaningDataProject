@@ -29,6 +29,8 @@ variables from the time and frequency domain.
   * rad/seg - angular velocity.
 
   
+# CODE-BOOK
+
  N | Variable name | Desciption
 ---|---------------|---------------------------------------------------------------------------------------------------
  1 | subjectId | The subject [1, 30] who performed the activity
