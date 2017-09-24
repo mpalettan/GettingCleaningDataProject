@@ -1,12 +1,12 @@
-**ORIGINAL WORK:**
-# Human Activity Recognition Using Smartphones Dataset
-# Version 1.0
-# Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
-# Smartlab - Non Linear Complex Systems Laboratory
-# DITEN - Università degli Studi di Genova.
-# Via Opera Pia 11A, I-16145, Genoa, Italy.
-# activityrecognition@smartlab.ws
-# www.smartlab.ws
+#ORIGINAL WORK:**
+## Human Activity Recognition Using Smartphones Dataset
+## Version 1.0
+## Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+## Smartlab - Non Linear Complex Systems Laboratory
+## DITEN - Università degli Studi di Genova.
+## Via Opera Pia 11A, I-16145, Genoa, Italy.
+## activityrecognition@smartlab.ws
+## www.smartlab.ws
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
@@ -20,17 +20,15 @@ acceleration and gravity. The gravitational force is assumed to have only low fr
 filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating 
 variables from the time and frequency domain.  
 
-**VARIATION - Code book**
-Tidy data set with only the measurements on the mean and standard 
-deviation for each measurement
+#VARIATION - Code book
+##Tidy data set with only the measurements on the mean and standard deviation for each measurement
+##Data Set: TotalTidyData.txt
 
-Data Set: TotalTidyData.txt
-
-**Notes:** 
-- Features are normalized and bounded within [-1,1].
-- Units used for the measurements are:
-  . m/seg2  - body and gravity accelerations
-  . rad/seg - angular velocity.
+#Notes:
+## Features are normalized and bounded within [-1,1].
+## Units used for the measurements are:
+### m/seg2  - body and gravity accelerations
+### rad/seg - angular velocity.
 
   
  N | Variable name | Desciption
