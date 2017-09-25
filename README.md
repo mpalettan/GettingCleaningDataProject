@@ -33,5 +33,5 @@ The goal is to prepare tidy data that can be used for later analysis.
 
 1) Download the raw data and set the working directory accordingly to the correspondent downloaded path.
 2) Run the "run_analysis.R" script. Two data sets are generated: "TotalTidyData.txt" and "SummarizeTidyData.txt".
-3) View the code book "CodeBook.md" for details about the "TotalTidyData.txt" data set.
+3) View the code book "CodeBook.md" for details about the data sets.
 
