@@ -19,8 +19,8 @@ filter with 0.3 Hz cutoff frequency was used. From each window, a vector of feat
 variables from the time and frequency domain.  
 
 # VARIATION - Code book
-* Tidy data set with only the measurements on the mean and standard deviation for each measurement
-* Data Set: TotalTidyData.txt
+* Tidy data set with only the measurements on the mean and standard deviation for each measurement.
+* Data Sets: TotalTidyData.txt and SummarizeTidyData.txt (average of each variable for each activity and each subject).
 
 # Notes:
 * Features are normalized and bounded within [-1,1].
