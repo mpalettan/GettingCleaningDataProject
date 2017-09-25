@@ -6,8 +6,7 @@ The goal is to prepare tidy data that can be used for later analysis.
 # This repository contains: 
 
 1) The script "run_analysis.R" for performing the analysis.
-2) The tidy data sets "TotalTidyData.txt" and "SummarizeTidyData.txt" resulting from the analysis. 
-3) The code book "CodeBook.md" that describes the variables, the data, and any transformations or work to clean up 
+2) The code book "CodeBook.md" that describes the variables, the data, and any transformations or work to clean up 
    the data contained in "TotalTidyData.txt".
    
 # ORIGINAL WORK:
